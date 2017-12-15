@@ -7,7 +7,7 @@
     //전송된 아이디 비밀번호가 유효한지 여부
     boolean isValid = false;
     //DB 에서 해당 정보가 유효한 정보인지 확인한다.
-    if(id.equals("gura") && pwd.equals("1234")){ //맞는 정보라면
+    if(id.equals("ori") && pwd.equals("5riori")){ //맞는 정보라면
     	isValid=true;
     }
     %>
